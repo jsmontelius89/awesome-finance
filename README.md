@@ -99,6 +99,7 @@
 
 - [Yahoo Finance](https://finance.yahoo.com/) – Market data, quotes, and financial news.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free APIs for stock, forex, and crypto data.
+- [Congressional Stock Brain](https://congressionalstockbrain.com) – AI-powered tool that scores every U.S. STOCK Act disclosure (lawmaker trades) by significance, converting 50,000+ public filings into actionable signals for retail investors.
 - [Quandl / Nasdaq Data Link](https://data.nasdaq.com/) – Financial and economic datasets.
 - [IEX Cloud](https://iexcloud.io/) – Market data APIs for developers.
 - [FRED](https://fred.stlouisfed.org/) – Federal Reserve economic and financial data.
